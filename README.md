@@ -12,7 +12,7 @@ Run the app with `flutter run` in the project directory.
 
 ## Features
 
-A list of countries fetched from [https://countries.trevorblades.com] is displayed.
+A list of countries fetched from https://countries.trevorblades.com is displayed.
 
 The user can select a country to see a country detail page. On the detail page the user can click on a "See more" button to see more details about the country. The expanded details show also information about the continent the country is in and the other countries in the continent are listed. If the user clicks on a country in the list of countries in the continent, the detail page of the selected country is shown.
 
