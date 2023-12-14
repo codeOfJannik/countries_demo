@@ -1,0 +1,9 @@
+include: package:lint/casual.yaml
+
+analyzer:
+  plugins:
+    - custom_lint
+
+linter:
+  rules:
+

@@ -1,0 +1,14 @@
+{
+    "countryListScreenAppBarTitle": "Länder",
+    "capital": "Hauptstadt",
+    "currency": "Währung",
+    "nativeName": "Name in Landessprache",
+    "languages" : "Sprachen",
+    "language": "Sprache",
+    "state": "Bundesstaat",
+    "states": "Bundesstaaten",
+    "phoneCode": "Telefonvorwahl",
+    "phoneCodes": "Telefonvorwahlen",
+    "continent": "Kontinent",
+    "showMore": "Mehr anzeigen"
+}

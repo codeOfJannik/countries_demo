@@ -1,0 +1,14 @@
+{
+    "countryListScreenAppBarTitle": "Countries",
+    "capital": "Capital",
+    "currency": "Currency",
+    "nativeName": "Name in native language",
+    "languages" : "Languages",
+    "language": "Language",
+    "state": "State",
+    "states": "States",
+    "phoneCode": "Phone code",
+    "phoneCodes": "Phone codes",
+    "continent": "Continent",
+    "showMore": "Show more"
+}
