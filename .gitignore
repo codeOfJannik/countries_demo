@@ -44,3 +44,6 @@ app.*.map.json
 
 custom_lint.log
 /lib/generated/*
+
+# Generated dart files
+*.g.dart
