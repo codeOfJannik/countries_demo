@@ -8,6 +8,8 @@ Get dependencies by running `flutter pub get` in the project directory.
 
 Generate files by starting the build_runner with `flutter pub run build_runner watch --delete-conflicting-outputs` in the project directory.
 
+Generate language files by running `flutter pub run intl_utils:generate`.
+
 Run the app with `flutter run` in the project directory.
 
 ## Features
